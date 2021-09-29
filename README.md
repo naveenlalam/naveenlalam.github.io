@@ -9,6 +9,13 @@
 
 [meme](http://www.quickmeme.com/meme/3ozepj)
 
+
+## University Messaging System 
+   Messaging system is a web based application accessible to everyone in 
+   the University right from faulty to students will be able to communicate
+   with an individual or a group. This is website hosted on a Tomcat server,
+   faculty and students will be able to login, view and post messages.
+
 You can use the [editor on GitHub](https://github.com/naveenlalam/naveenlalam.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
