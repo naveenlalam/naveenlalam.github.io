@@ -1,5 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Naveen Kumar Lalam GitHub Pages
 
+## Hi! This is Naveen, a student of M.S. Applied Computer Science in Grand Valley State University
+
+## Interests
+-------------
+*I love travel and always plan for a new destination whenever i have free time :-):-).
+*I've already travelled to 6 countries in Asia Pacific region.
+*The next destination which i have in my list is Europe.
+
+## Experience
+------------
+*I worked as a Software Engineer and have experience in Java, Cloud and Web Technologies.
+
+
+## meme
+*http://www.quickmeme.com/meme/3ozepj
 You can use the [editor on GitHub](https://github.com/naveenlalam/naveenlalam.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
