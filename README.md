@@ -10,7 +10,7 @@
 [meme](http://www.quickmeme.com/meme/3ozepj)
 
 
-## University Messaging System 
+## Term Project - University Messaging System 
    University Messaging System is a communication system where anyone one in the University will be able to send messages to aynone.
    Users will be able to send messages to people depending on there access level for e.g. President of the university will have rights
    to send message to all the department heads, faculty and students as a group or to an individual. Every user needs to register for 
