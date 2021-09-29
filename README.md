@@ -3,17 +3,15 @@
 ## This is Naveen, a student of M.S. Applied Computer Science in Grand Valley State University
 
 ## Interests
-
-Travel is a passion for me, Apart from visiting the US I visited six countries in Asia Pacific region.
-Europe is next in my travel bucket and   
+ ### Travel is a passion for me, Apart from visiting the US I visited six countries in Asia Pacific region.
+ ### Europe is next in my travel bucket and   
 
 ## Experience
-
-### Worked as a Software Engineer in Franklin Templeton Investments an Investment Management Company.
-### I have skills in J2EE technolgies, Azure Cloud and Web Technologies.
-### Expertise in porting in-primise applications to Cloud.
-### Expertise in designing the Disaster Recovery process for Application.
-### Experience in handling high priority issues and troubleshooting performance related issues in applications 
+ ### Worked as a Software Engineer in Franklin Templeton Investments an Investment Management Company.
+ ### I have skills in J2EE technolgies, Azure Cloud and Web Technologies.
+ ### Expertise in porting in-primise applications to Cloud.
+ ### Expertise in designing the Disaster Recovery process for Application.
+ ### Experience in handling high priority issues and troubleshooting performance related issues in applications 
 
 
 ## meme
