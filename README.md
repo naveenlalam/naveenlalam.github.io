@@ -1,16 +1,19 @@
-## Welcome to Naveen Kumar Lalam GitHub Pages
+## Welcome to GitHub Pages
 
-## Hi! This is Naveen, a student of M.S. Applied Computer Science in Grand Valley State University
+## This is Naveen, a student of M.S. Applied Computer Science in Grand Valley State University
 
 ## Interests
 -------------
-*I love travel and always plan for a new destination whenever i have free time :-):-).
-*I've already travelled to 6 countries in Asia Pacific region.
-*The next destination which i have in my list is Europe.
+Travel is a passion for me, Apart from visiting the US I visited six countries in Asia Pacific region.
+Europe is next in my travel bucket and   
 
 ## Experience
 ------------
-*I worked as a Software Engineer and have experience in Java, Cloud and Web Technologies.
+Worked as a Software Engineer in Franklin Templeton Investments an Investment Management Company.
+I have skills in J2EE technolgies, Azure Cloud and Web Technologies.
+Expertise in porting in-primise applications to Cloud.
+Expertise in designing the Disaster Recovery process for Application.
+Experience in handling high priority issues and troubleshooting performance related issues in applications 
 
 
 ## meme
