@@ -11,10 +11,11 @@
 
 
 ## University Messaging System 
-   Messaging system is a web based application accessible to everyone in 
-   the University right from faulty to students will be able to communicate
-   with an individual or a group. This is website hosted on a Tomcat server,
-   faculty and students will be able to login, view and post messages.
+   University Messaging System is a communication system where anyone one in the University will be able to send messages to aynone.
+   Users will be able to send messages to people depending on there access level for e.g. President of the university will have rights
+   to send message to all the department heads, faculty and students as a group or to an individual. Every user needs to register for 
+   access to the portal and the request would go to the administrator for approval, once the admin approves the user would be able to 
+   login to the application using his id and password to view or post messages.
 
 You can use the [editor on GitHub](https://github.com/naveenlalam/naveenlalam.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
