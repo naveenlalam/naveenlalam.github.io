@@ -16,3 +16,5 @@
    have rights to send message to all the department heads, faculty and students as a group or to an individual.Users who 
    require access to system should register in the portal and after an approval the user would be able to login to the 
    application.
+   
+  [Project Updates](https://naveenlalam.github.io/GVSU-CIS641-Panda/)
