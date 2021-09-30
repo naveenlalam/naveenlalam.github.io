@@ -1,10 +1,10 @@
 ## Welcome to GitHub Pages
 
-## This is Naveen, a student of M.S. Applied Computer Science in Grand Valley State University
+## This is Naveen, I am a student of M.S. Applied Computer Science in Grand Valley State University
 
 ## Interests - Travel is my passion, I visited six countries in Asia Pacific region.Europe is next in travel list.
 
-## Experience - Worked as a Software Engineer in Franklin Templeton Investments an Investment Management Company.I have skills in J2EE technolgies, Azure Cloud and Web Technologies. 
+## Experience - Worked as a Software Engineer and have skills in J2EE technolgies, Azure Cloud and Web Technologies. 
 
 
 [meme](http://www.quickmeme.com/meme/3ozepj)
